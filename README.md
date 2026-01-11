@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🎓 D2 @ **Kagoshima University** (Fuchida Lab/Oda Group)
 - 🔬 Researching **Ultrasound Levitation**
-- 🤖 **CoRE Competition** Alumni - Team Satsuma
+- 🤖 CoRE:1 Competition - MAGMA GARAGE (Circuit & Control)
 - 🏢 Works @ **Meta Systems Laboratory Inc.** & **unimal Co., Ltd.**
 - 🌏 Based in **Kagoshima, Japan**
 
