@@ -41,9 +41,10 @@ Here are some ideas to get you started:
 ---
 
 ### 🧰 Languages & Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ruby,c,cpp,arduino,ros,pytorch,tensorflow,docker,linux,git,vscode,vim,vue,nuxtjs,aws,gcp,firebase,opencv,raspberrypi,rails,qt,notion,discord,figma,bash,latex&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,ruby,c,cpp,arduino,ros,pytorch,tensorflow,docker,linux,git,vscode,vim,vue,nuxtjs,aws,gcp,firebase,opencv,raspberrypi,rails,qt,notion,discord,figma,bash,latex&perline=14" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
 </p>
 
 ---
